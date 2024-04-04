@@ -1,0 +1,39 @@
+.konn{
+    
+   width: 300px;
+    display: grid;
+    gap: 50px;
+   grid-template-columns: auto auto;
+   grid-template-rows: auto;
+  
+
+}
+.box1{
+    background-color: aliceblue;
+    width: 300px;
+    height: 200px;
+    
+}
+.box2{
+    background-color: rgb(214, 25, 12);
+    width: 300px;
+    display: grid;
+    gap: 50px;
+    height: 200px;
+   margin-top:50pxpx ;
+   
+}
+.button{
+    width: 100px;
+    height: 50px;
+  margin-left: 99px;
+  background-color: brown;
+
+
+}
+img{
+    display: grid;
+    gap: 50px;
+    grid-template-columns: 1/3;
+
+}
